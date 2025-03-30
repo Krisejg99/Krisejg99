@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on getting my skills upgraded.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently working on getting more skills.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: kristopher.gray99@gmail.com
 - ⚡ Fun fact: I like fun facts... 
